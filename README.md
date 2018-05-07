@@ -9,11 +9,7 @@
 * AForge.Neuro - Neural networks computation library;
 * AForge.Genetic - evolution programming library;
 * AForge.MachineLearning -  machine learning library;
-* Red
-        + Green 
-            * dark  green 
-            * lime  
-        - Blue      
+
 
 ### P.S ###
 
